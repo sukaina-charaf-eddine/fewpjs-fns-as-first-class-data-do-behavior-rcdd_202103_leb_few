@@ -7,6 +7,7 @@ function handleClick(e) {
   displayMessage(greet(timeString))
 }
 
+
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
